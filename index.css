@@ -1,0 +1,9 @@
+body {
+    background-color: lightcoral;
+    color: beige;
+}
+
+input:hover {
+    background-color: lightblue;
+    width: 300px;
+}
